@@ -12,4 +12,5 @@ Build a machine learning model to predict if an applicant is 'good' or 'bad' cli
 There are two tables, which are connected by ID.
 application_record.csv contains appliers personal information, which you could use as features for predicting.
 
-credit_record.csv records users' behaviors of credit card. 
+credit_record.csv records users' behaviors of credit card. 9
+(You can access the dataset from archive file)
