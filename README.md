@@ -14,3 +14,6 @@ application_record.csv contains appliers personal information, which you could u
 
 credit_record.csv records users' behaviors of credit card. 9
 (You can access the dataset from archive.zip file)
+
+Go through the notebook where i have given explanation to most of the code.
+also you can find my notebook in kaggle at https://www.kaggle.com/code/voonadhanvanth/credit-card-approval-prediction-using-ml 
